@@ -9,7 +9,7 @@ Basic express.js project with basic routes:
 
 ## How to Run
 ```
-npm start
+npm run dev
 ```
 
 ## URL
